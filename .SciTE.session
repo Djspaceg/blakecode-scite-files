@@ -1,0 +1,43 @@
+# SciTE session file
+
+position.left=300
+position.top=47
+position.width=1040
+position.height=831
+position.maximize=0
+
+mru.1.path=/Users/blake/Library/Containers/org.scintilla.SciTE/Data/Library/Application Support/org.scintilla.SciTE/SciTEGlobal.properties
+mru.2.path=/Users/blake/Library/Containers/org.scintilla.SciTE/Data/Library/Application Support/org.scintilla.SciTE/cpp.properties
+mru.3.path=/Users/blake/Downloads/ugly.js
+mru.4.path=/Users/blake/Source/example-college-football/source/Application.js
+mru.5.path=/Users/blake/Source/example-college-football/source/Models/Game.js
+mru.6.path=/Users/blake/Source/example-college-football/source/Models/GameDay.js
+mru.7.path=/Users/blake/Source/example-college-football/source/Models/package.js
+mru.8.path=/Users/blake/Source/example-college-football/source/Models/School.js
+mru.9.path=/Users/blake/Source/example-college-football/source/Models/Scoreboard.js
+mru.10.path=/Users/blake/.bashrc
+
+buffer.1.path=/Users/blake/Downloads/ugly.js
+buffer.1.position=1
+
+buffer.2.path=/Users/blake/Source/example-college-football/source/Application.js
+buffer.2.position=1
+
+buffer.3.path=/Users/blake/Source/example-college-football/source/Models/Game.js
+buffer.3.position=1
+
+buffer.4.path=/Users/blake/Source/example-college-football/source/Models/GameDay.js
+buffer.4.position=1
+
+buffer.5.path=/Users/blake/Source/example-college-football/source/Models/package.js
+buffer.5.position=1
+
+buffer.6.path=/Users/blake/Source/example-college-football/source/Models/School.js
+buffer.6.position=1
+
+buffer.7.path=/Users/blake/Source/example-college-football/source/Models/Scoreboard.js
+buffer.7.position=426
+
+buffer.8.path=/Users/blake/.bashrc
+buffer.8.position=41
+buffer.8.current=1
